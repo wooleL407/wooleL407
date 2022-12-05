@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wooleL407
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning CS50x from HarvardX online
